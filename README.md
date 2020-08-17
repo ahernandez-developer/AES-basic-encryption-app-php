@@ -1,1 +1,1 @@
-# AES-basic-encryption-php
+Basic web app for didactive use
